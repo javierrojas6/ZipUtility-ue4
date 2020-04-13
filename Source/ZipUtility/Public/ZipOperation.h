@@ -1,5 +1,4 @@
 #pragma once
-#include "Object.h"
 #include "ZipOperation.generated.h"
 
 class SevenZipCallbackHandler;
